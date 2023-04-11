@@ -1,4 +1,4 @@
-[Website live](https://friendly-biscuit-20af32.netlify.app/)
+[Website live](https://avnnews.netlify.app/)
  
 # npx create-react-app myapp
 
